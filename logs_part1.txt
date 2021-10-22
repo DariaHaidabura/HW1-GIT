@@ -1,0 +1,36 @@
+7ff2d56 (HEAD -> main, origin/main, origin/feature2, origin/feature1, origin/develop, feature2, feature1, develop) HEAD@{0}: checkout: moving f:...skipping...
+7ff2d56 (HEAD -> main, origin/main, origin/feature2, origin/feature1, origin/develop, feature2, 
+feature1, develop) HEAD@{0}: checkout: moving from feature2 to main
+7ff2d56 (HEAD -> main, origin/main, origin/feature2, origin/feature1, origin/develop, feature2, 
+feature1, develop) HEAD@{1}: merge develop: Fast-forward
+aaa7148 HEAD@{2}: checkout: moving from feature1 to feature2
+7ff2d56 (HEAD -> main, origin/main, origin/feature2, origin/feature1, origin/develop, feature2, 
+feature1, develop) HEAD@{3}: merge develop: Fast-forward
+f250512 HEAD@{4}: checkout: moving from develop 
+to feature1
+7ff2d56 (HEAD -> main, origin/main, origin/feature2, origin/feature1, origin/develop, feature2, 
+feature1, develop) HEAD@{5}: checkout: moving from main to develop
+7ff2d56 (HEAD -> main, origin/main, origin/feature2, origin/feature1, origin/develop, feature2, 
+feature1, develop) HEAD@{6}: merge develop: Fast-forward
+b55a607 HEAD@{7}: checkout: moving from develop 
+to main
+7ff2d56 (HEAD -> main, origin/main, origin/feature2, origin/feature1, origin/develop, feature2, 
+feature1, develop) HEAD@{8}: commit (merge): Conflict resolved
+f250512 HEAD@{9}: merge feature1: Fast-forward  
+1513d14 HEAD@{10}: checkout: moving from feature2 to develop
+aaa7148 HEAD@{11}: commit: Styles added
+1513d14 HEAD@{12}: checkout: moving from feature1 to feature2
+f250512 HEAD@{13}: checkout: moving from feature2 to feature1
+1513d14 HEAD@{14}: checkout: moving from feature1 to feature2
+f250512 HEAD@{15}: checkout: moving from feature2 to feature1
+1513d14 HEAD@{16}: checkout: moving from feature1 to feature2
+f250512 HEAD@{17}: checkout: moving from feature2 to feature1
+1513d14 HEAD@{18}: checkout: moving from develop to feature2
+1513d14 HEAD@{19}: checkout: moving from feature1 to develop
+f250512 HEAD@{20}: commit: Images added
+5ebdac6 HEAD@{21}: commit: Images
+1513d14 HEAD@{22}: checkout: moving from develop to feature1
+1513d14 HEAD@{23}: commit: Second commit        
+b55a607 HEAD@{24}: checkout: moving from main to develop
+b55a607 HEAD@{25}: Branch: renamed refs/heads/master to refs/heads/main
+b55a607 HEAD@{27}: commit (initial): first commit
